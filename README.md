@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>B.E. Electrical Engineering (3rd Year) • Jadavpur University</b><br>
-  Passionate about 3D Perception, Agentic AI Systems, Graph Neural Networks & Autonomous Robotics.
+  Passionate about AI Engineer, Agentic AI Systems.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Remon_Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
